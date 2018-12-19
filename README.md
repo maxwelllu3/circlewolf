@@ -1,2 +1,2 @@
-# circlewolf
+# CircleWolf
 CircleWolf on Processing
